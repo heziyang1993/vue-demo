@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+html ,body{
+	font-size: 100px;
+	font-family: Arial, sans-seri;
+	width:100%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+// button,
+// input,
+// select,
+// textarea {
+//  	background-color: inherit;
+//  	font-size: inherit;
+//  	-webkit-appearance: none;
+//  	-moz-appearance: none;
+//  	appearance: none;
+//  	outline: 0;
+//  	min-width: 0
+// }
+
+article,
+aside,
+canvas,
+figure,
+footer,
+header,
+nav,
+section {
+	display: block
+}
+
+body {
+	color: #333;
+	background-color: #fff;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	background:#eee
+}
+
+h1,
+h2,
+h3 {
+	font-weight: 400
+}
+
+ol,
+ul {
+	list-style: none
+}
+
+address,
+del,
+em,
+i {
+	font-style: normal;
+	text-decoration: none
+}
+
+img {
+	display: block;
+	border: 0
+}
+
+a,
+a:visited {
+	color: #333;
+	text-decoration: none
+}
+
+.clearfix:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	overflow: hidden
+}
+@media screen and (min-width：375px){
+	html{
+		font-size:75px;
+	}
+}
+@media screen and (min-width：320px){
+	html{
+		font-size:50px;
+	}
+}
+@media screen and (min-width：768px){
+	html{
+		font-size:100px;
+	}
+}

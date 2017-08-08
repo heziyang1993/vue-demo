@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" id="vp" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+		<link rel="stylesheet" href="icon/museui_fonts.css">
+		<link rel="stylesheet" href="icon/museui_icon.css">
+		<title>飞牛网</title>
+		<script type="text/javascript">
+			var wd = document.documentElement.clientWidth * window.devicePixelRatio / 10;
+			document.getElementsByTagName("html")[0].style.fontSize = wd + "px";
+			var scale = 1 / window.devicePixelRatio;
+			var mstr = 'initial-scale=' + scale * 2 + ', maximum-scale=' + scale * 2 + ', minimum-scale=' + scale * 2 + ', user-scalable=no';
+			document.getElementById("vp").content = mstr;
+		</script>
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=KKDjDvcE8l9HYMZweGxIKvINWRwUArmu"></script>
+	</head>
+
+	<body>
+		<div id="container"></div>
+	</body>
+	<script src="bundle.js"></script>
+
+</html>

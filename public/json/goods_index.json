@@ -1,0 +1,436 @@
+{
+"RECORDS":[
+{
+"id":1,
+"brand_name":"珍珂儿",
+"goods_discount":"3.1折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/3276\/1499405713550.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":2,
+"brand_name":"静佳",
+"goods_discount":"3.3折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/2881\/1499405587182.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":3,
+"brand_name":"自然堂",
+"goods_discount":"2.3折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9548\/1499412912208.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":4,
+"brand_name":"丸美",
+"goods_discount":"1.9折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/305\/1499411868028.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":5,
+"brand_name":"韩束",
+"goods_discount":"1件8折 2件7.5折",
+"goods_info":"全场满199赠超值大礼包 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/18\/2587\/1500378559317.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":6,
+"brand_name":"欧诗漫",
+"goods_discount":"1.8折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/19\/3728\/1500458377115.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":7,
+"brand_name":"丽得姿",
+"goods_discount":"1.8折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9309\/1499412881462.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":8,
+"brand_name":"里美",
+"goods_discount":"3.3折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/3622\/1499411767670.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":9,
+"brand_name":"御泥坊",
+"goods_discount":"2.7折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8833\/1499405982564.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":10,
+"brand_name":"欧莱雅",
+"goods_discount":"2件8.5折  3件8折",
+"goods_info":"全场满199赠超值大礼包 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9749\/1499406062331.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":11,
+"brand_name":"小迷糊",
+"goods_discount":"1.6折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/12\/9624\/1499846855110.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":12,
+"brand_name":"百雀羚",
+"goods_discount":"2.2折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/1882\/1499405888906.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":13,
+"brand_name":"阿芙",
+"goods_discount":"2.1折起",
+"goods_info":"满199减80 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/14\/8980\/1500023108053.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":14,
+"brand_name":"贝德玛",
+"goods_discount":"5折起",
+"goods_info":"全场满199赠超值大礼包 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/6111\/1499412115672.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":15,
+"brand_name":"魔法医生",
+"goods_discount":"2.5折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8218\/1499411919938.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":16,
+"brand_name":"膜法世家",
+"goods_discount":"2.1折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8733\/1499405936635.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":17,
+"brand_name":"Larastyle",
+"goods_discount":"1.2折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/16\/8775\/1500206800261.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":18,
+"brand_name":"姬芮",
+"goods_discount":"4.5折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/47\/1499412085234.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":19,
+"brand_name":"森田药妆",
+"goods_discount":"3.5折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8206\/1499406246227.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":20,
+"brand_name":"自然共和国",
+"goods_discount":"2.7折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9783\/1499412152262.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":21,
+"brand_name":"温碧泉",
+"goods_discount":"3折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9416\/1499406382481.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":22,
+"brand_name":"母婴-袋鼠妈妈",
+"goods_discount":"1.5折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/171\/1499425824284.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":23,
+"brand_name":"即魅",
+"goods_discount":"2.2折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/638\/1499406168538.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":24,
+"brand_name":"一叶子",
+"goods_discount":"1件8折 2件7.5折",
+"goods_info":"全场满199赠超值大礼包 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/6146\/1499405766924.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":25,
+"brand_name":"净肌",
+"goods_discount":"3.8折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/1623\/1499406136684.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":26,
+"brand_name":"美宝莲",
+"goods_discount":"2件8.5折 3件8折",
+"goods_info":"全场满199赠超值大礼包 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/4032\/1499406538617.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":27,
+"brand_name":"DHC",
+"goods_discount":"2.4折起",
+"goods_info":"满129赠豆豆浣萌趣手包 可累计 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/6144\/1499425514873.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":28,
+"brand_name":"玉兰油",
+"goods_discount":"4.1折起",
+"goods_info":"满200赠188大礼包 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/6789\/1499406319141.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":29,
+"brand_name":"相宜本草",
+"goods_discount":"4.6折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8665\/1499406027864.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":30,
+"brand_name":"高姿",
+"goods_discount":"4.4折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/1879\/1499424929242.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":31,
+"brand_name":"菲诗小铺",
+"goods_discount":"2.3折起",
+"goods_info":"满99赠调理修护系列3件套74ml 不累计 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/1058\/1499425804466.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":32,
+"brand_name":"花印",
+"goods_discount":"2.9折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9248\/1499412056886.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":33,
+"brand_name":"韩后",
+"goods_discount":"2.5折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/4789\/1499425151759.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":34,
+"brand_name":"伊丽莎白雅顿",
+"goods_discount":"2.3折起",
+"goods_info":"满350减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/2753\/1499412940561.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":35,
+"brand_name":"玛丽黛佳",
+"goods_discount":"3.4折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/4520\/1499411994946.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":36,
+"brand_name":"水密码",
+"goods_discount":"3.3折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/7285\/1499406575098.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":37,
+"brand_name":"芙丽芳丝",
+"goods_discount":"5.7折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/4186\/1499425879723.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":38,
+"brand_name":"雅诗兰黛",
+"goods_discount":"4.6折起",
+"goods_info":"指定产品买即送EC粉色笔记本 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/2347\/1499406483882.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":39,
+"brand_name":"雅漾",
+"goods_discount":"7.1折起",
+"goods_info":"指定产品买即送EC粉色笔记本 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9167\/1499425095751.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":40,
+"brand_name":"佰草集",
+"goods_discount":"3.2折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9849\/1499406633144.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":41,
+"brand_name":"谜尚",
+"goods_discount":"3.7折起",
+"goods_info":"满298减80 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9006\/1499424945904.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":42,
+"brand_name":"花肌粹",
+"goods_discount":"1.4折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/2036\/1499425082769.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":43,
+"brand_name":"蜜丝佛陀",
+"goods_discount":"6.3折起",
+"goods_info":"满129赠眼影刷 不累计  赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/14\/513\/1500023249886.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":44,
+"brand_name":"羽西",
+"goods_discount":"2.3折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8744\/1499412514814.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":45,
+"brand_name":"卡姿兰",
+"goods_discount":"3.7折起",
+"goods_info":"满200减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/1582\/1499425040621.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":46,
+"brand_name":"理肤泉",
+"goods_discount":"6.1折起",
+"goods_info":"满298减80 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/16\/331\/1500204902340.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":47,
+"brand_name":"滋源",
+"goods_discount":"4.3折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/6890\/1499406452088.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":48,
+"brand_name":"京润珍珠",
+"goods_discount":"3.2折起",
+"goods_info":"满298减80 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/5429\/1499412205939.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":49,
+"brand_name":"法兰琳卡",
+"goods_discount":"3折起",
+"goods_info":"满199减50 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/3108\/1499425191587.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":50,
+"brand_name":"兰芝",
+"goods_discount":"7.4折起",
+"goods_info":"全场满199赠超值大礼包 赠完为止",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/8610\/1499406416514.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":51,
+"brand_name":"水之蔻",
+"goods_discount":"1.8折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/2565\/1499425593794.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":52,
+"brand_name":"美即",
+"goods_discount":"4折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/9533\/1499425207657.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":53,
+"brand_name":"雅芳",
+"goods_discount":"2.4折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/6171\/1499425244180.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+},
+{
+"id":54,
+"brand_name":"母婴-亲润",
+"goods_discount":"1.1折起",
+"goods_info":"满199减100 上不封顶",
+"goods_img":"http:\/\/b.appsimg.com\/2017\/07\/07\/7769\/1499411543059.jpg",
+"add_time":"2017\/7\/22 10:45:50"
+}
+]
+}
